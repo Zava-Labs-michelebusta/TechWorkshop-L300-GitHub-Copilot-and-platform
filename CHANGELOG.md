@@ -8,7 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Changed
-- Upgraded .NET framework from 6.0 to 8.0 (LTS)
+- Upgraded from .NET 6.0 to .NET 8.0 (LTS)
   - Updated `ZavaStorefront.csproj` to target `net8.0`
   - .NET 8.0 provides long-term support until November 2026
   - Improved security, performance, and access to new .NET features
